@@ -1,7 +1,7 @@
 #summary List of supported devices/operating systems
 
 = Introduction =
-This page list devices and operating systems weupnp has been tested with. Since this list is hard to populate, any help is welcome: let us know if weupnp works with your device/OS combination.
+This page list devices and operating systems weupnp has been tested with. Since this list is hard to populate, any help is welcome: let us know if weupnp works with your device/OS combination by filling [http://spreadsheets.google.com/viewform?formkey=dDViV1BjdGV5Y0NVbEtOMXNKdVlfOGc6MA.. this form].
 
 = Operating Systems =
 weupnp works with
@@ -13,6 +13,6 @@ Presently, there appear to be some issues with Vista
 
 = Devices =
 
-|| *Brand* || *Model* || *Notes* ||
-|| DLink || DI-605 || ||
-|| D-Link || Wireless Draft-11n DIR-635 || ||
+|| *Brand* || *Model* || *Works* ||
+|| DLink || DI-605 || Yes ||
+|| D-Link || Wireless Draft-11n DIR-635 || Yes ||
