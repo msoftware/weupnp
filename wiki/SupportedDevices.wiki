@@ -9,10 +9,12 @@ weupnp works with
   * Mac OS X
   * Windows XP (since r3)
 
-Presently, there appear to be some issues with Vista ([http://code.google.com/p/weupnp/issues/detail?id=1 more here])
+Presently, there appear to be some issues with Vista and Windows 7, due to the [http://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol SSDP] service ([http://code.google.com/p/weupnp/issues/detail?id=1 more here])
 
 = Devices =
 
 || *Brand* || *Model* || *Works* ||
 || DLink || DI-605 || Yes ||
+|| DLink || DI-614+ || Yes ||
+|| D-Link || DSL-2640B || Yes ||
 || D-Link || Wireless Draft-11n DIR-635 || Yes ||
