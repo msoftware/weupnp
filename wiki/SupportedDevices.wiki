@@ -1,4 +1,5 @@
 #summary List of supported devices/operating systems
+#labels Featured
 
 = Introduction =
 This page list devices and operating systems weupnp has been tested with. Since this list is hard to populate, any help is welcome: let us know if weupnp works with your device/OS combination by filling [http://spreadsheets.google.com/viewform?formkey=dDViV1BjdGV5Y0NVbEtOMXNKdVlfOGc6MA.. this form].
@@ -18,3 +19,4 @@ Presently, there appear to be some issues with Vista and Windows 7, due to the [
 || DLink || DI-614+ || Yes ||
 || D-Link || DSL-2640B || Yes ||
 || D-Link || Wireless Draft-11n DIR-635 || Yes ||
+|| Netgear || WGT 624 || Yes "||
