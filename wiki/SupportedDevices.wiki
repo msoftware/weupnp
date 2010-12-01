@@ -8,9 +8,7 @@ This page list devices and operating systems weupnp has been tested with. Since 
 weupnp works with
   * Linux (all flavors)
   * Mac OS X
-  * Windows XP (since r3)
-
-Presently, there appear to be some issues with Vista and Windows 7, due to the [http://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol SSDP] service ([http://code.google.com/p/weupnp/issues/detail?id=1 more here])
+  * Windows XP (since r3) and Vista/7 (since r26)
 
 = Devices =
 
